@@ -25,7 +25,6 @@
             "args": [],
             "cwd": "${workspaceFolder}/csharp-prep/Prep1",
             "console": "integratedTerminal",
-            "internalConsoleOptions": "neverOpen",
             "stopAtEntry": false
         },
 
